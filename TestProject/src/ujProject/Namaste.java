@@ -5,4 +5,7 @@ public static void main(String[] args) {
 	System.out.println("namasar sirkar");
 	
 }
+public void Parent(String text) {
+	
+}
 }
