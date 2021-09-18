@@ -2,7 +2,7 @@ package ujProject;
 
 public class Namaste {
 public static void main(String[] args) {
-	System.out.println("namasar sirkar");
+	System.out.println("namasar");
 	
 }
 }
